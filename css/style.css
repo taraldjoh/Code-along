@@ -160,7 +160,10 @@ header a:hover{
     width:90px;
   }
 
-
+#box2{
+    border-left: #283138 0.3px solid;
+    border-right: #283138 0.3px solid;
+}
 /* sidebar */
 aside#sidebar{
     float:right;
